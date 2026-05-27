@@ -41,9 +41,9 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nolan-Z&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=3600" />
-&nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nolan-Z&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=3600" />
+![Followers](https://img.shields.io/github/followers/Nolan-Z?label=followers&style=social)
+![Stars](https://img.shields.io/github/stars/Nolan-Z?label=total%20stars&style=social)
+![Repos](https://img.shields.io/github/public-repos/Nolan-Z?label=repos&style=social)
 
 </div>
 
