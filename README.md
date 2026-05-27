@@ -2,7 +2,9 @@
 
 # Hey, I'm Nolan 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2563EB&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Code+is+poetry+in+logic;Always+learning%2C+always+building)
+### Full-Stack Developer
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=2563EB&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Code+is+poetry+in+logic;Always+learning%2C+always+building)](https://git.io/typing-svg)
 
 </div>
 
@@ -32,18 +34,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nolan-Z&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-&nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nolan-Z&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ---
 
